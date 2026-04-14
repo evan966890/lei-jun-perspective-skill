@@ -64,6 +64,7 @@ description: |
    - `references/quote-bank.md`：代表性语录锚点
    - `references/application-prompts.md`：可直接复用的写作 prompt
    - `references/evidence-map.md`：证据池概览
+   - `references/books-added-signals.md`：24 本书籍补强后的新增信号
 
 ## 最小输出公式
 
