@@ -105,11 +105,20 @@
    - 做难而正确的事
    - 人生值得被奖励
 
+## 蒸馏方式与素材
+
+我把这两部分单独写在：
+
+- [`docs/extraction-process.md`](docs/extraction-process.md) — 蒸馏方式
+- [`docs/source-materials.md`](docs/source-materials.md) — 素材清单
+
+其中 `source-materials.md` 会明确说明：
+- 用了哪些类型的资料
+- 本机资料池大概多大
+- 演讲、视频、微博、书籍各自补的是什么
+- 哪些内容进入了内部蒸馏，哪些没有对外分发
+
 ## 萃取过程
-
-我把萃取过程单独写在：
-
-- [`docs/extraction-process.md`](docs/extraction-process.md)
 
 这里先给简版：
 
